@@ -1,0 +1,71 @@
+/* /Users/thejas/Desktop/portfolio/src/components/Projects.css */
+
+#projects {
+  padding: 40px 20px;
+  background-color: #f9f9f9; /* Light background for the section */
+  text-align: center;
+}
+
+#projects h2 {
+  margin-bottom: 30px;
+  font-size: 2em;
+  color: #333;
+}
+
+.projects-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px; /* Spacing between project items */
+}
+
+.project-item {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  width: 100%;
+  max-width: 700px; /* Max width for readability */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: left;
+}
+
+.project-item h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: #0056b3; /* A primary color for titles */
+}
+
+.project-date {
+  font-style: italic;
+  color: #555;
+  font-size: 0.9em;
+  margin-bottom: 10px;
+}
+
+.project-description {
+  color: #444;
+  margin-bottom: 15px;
+  line-height: 1.6;
+}
+
+.project-item ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  margin-bottom: 15px;
+}
+
+.project-item li {
+  margin-bottom: 8px;
+  color: #333;
+}
+
+.project-link a {
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.project-link a:hover {
+  text-decoration: underline;
+}
