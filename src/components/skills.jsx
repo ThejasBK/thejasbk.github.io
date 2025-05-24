@@ -6,18 +6,18 @@ function Skills() {
   const skillCategories = [
     {
       name: "Programming Languages",
-      skills: ["Python", "SQL", "R", "JavaScript"] // [cite: 17]
+      skills: ["Python", "SQL", "R", "JavaScript"] 
     },
     {
       name: "Frameworks & Libraries",
-      skills: ["PyTorch", "TensorFlow", "PySpark", "GluonTS", "Django", "Flask"] // [cite: 17]
+      skills: ["PyTorch", "TensorFlow", "PySpark", "GluonTS", "Django", "Flask"] 
     },
     {
       name: "Tools & Platforms",
       skills: [
         "Git", "Docker", "Kubernetes", "Airflow", "Kubeflow", "Databricks", 
         "Apache Kafka", "GCP: BigQuery", "GCP: Dataflow", "GCP: Dataproc", 
-        "GCP: Cloud Storage", "GCP: Vertex AI" // [cite: 17]
+        "GCP: Cloud Storage", "GCP: Vertex AI" 
       ]
     }
   ];

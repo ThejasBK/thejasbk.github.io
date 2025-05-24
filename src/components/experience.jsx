@@ -9,12 +9,12 @@ function Experience() {
       company: "Walmart, Inc., Bentonville, AR",
       dates: "Aug 2023 - Present",
       details: [
-        "Led a team in designing and implementing an end-to-end pipeline for real-time sales forecasts. [cite: 1]",
-        "Optimized a forecasting service pipeline using GPU multiprocessing, reducing processing time by 40% without increasing model run costs. [cite: 2]",
-        "Reduced BigQuery cloud costs by 95%, improving query speed by 70%. [cite: 3]",
-        "Developed and contributed to a Python package adopted across multiple teams within Sam's Club. [cite: 4]",
-        "Collaborated with a cohort from the University of Arkansas on graph neural network for item similarity, improving product recommendations. [cite: 5]",
-        "Participated in hackathons focused on LLMs and item similarity with deep learning, achieving top results. [cite: 6]"
+        "Led a team in designing and implementing an end-to-end pipeline for real-time sales forecasts.",
+        "Optimized a forecasting service pipeline using GPU multiprocessing, reducing processing time by 40% without increasing model run costs.",
+        "Reduced BigQuery cloud costs by 95%, improving query speed by 70%.",
+        "Developed and contributed to a Python package adopted across multiple teams within Sam's Club.",
+        "Collaborated with a cohort from the University of Arkansas on graph neural network for item similarity, improving product recommendations.",
+        "Participated in hackathons focused on LLMs and item similarity with deep learning, achieving top results."
       ]
     },
     {
@@ -22,10 +22,10 @@ function Experience() {
       company: "University of Colorado, Boulder, CO",
       dates: "Dec 2021 - Apr 2024",
       details: [
-        "Improved image embedding algorithm performance by 25% with GPU acceleration. [cite: 7]",
-        "Implemented a topic modeling algorithm for image categorization. [cite: 8]",
+        "Improved image embedding algorithm performance by 25% with GPU acceleration.",
+        "Implemented a topic modeling algorithm for image categorization.",
         "Created and deployed a survey portal with JavaScript, incorporating active learning for user preference capture.",
-        "Enhanced consumer marketing strategies by optimizing image mining algorithms. [cite: 9]"
+        "Enhanced consumer marketing strategies by optimizing image mining algorithms."
       ]
     },
     {
@@ -33,9 +33,9 @@ function Experience() {
       company: "Goodiebag Food Co., Boulder, CO",
       dates: "May 2023 - Aug 2023",
       details: [
-        "Developed dashboard to track key customer metrics and business KPIs, reducing reporting time by 60%. [cite: 10]",
-        "Optimized an end-to-end data pipeline, improving processing and storing speed by 25%. [cite: 11]",
-        "Integrated diverse datasets via web scraping and APIs for market research and decision-making. [cite: 12]"
+        "Developed dashboard to track key customer metrics and business KPIs, reducing reporting time by 60%.",
+        "Optimized an end-to-end data pipeline, improving processing and storing speed by 25%.",
+        "Integrated diverse datasets via web scraping and APIs for market research and decision-making."
       ]
     },
     {
@@ -43,9 +43,9 @@ function Experience() {
       company: "Walmart, Inc., Dallas, TX",
       dates: "Jun 2022 - Aug 2022",
       details: [
-        "Implemented a deep learning algorithm, boosting sales forecasting accuracy by 20%. [cite: 13]",
-        "Reduced computing costs by 94% and model runtime by 86% by optimizing the forecasting pipeline. [cite: 14]",
-        "Built Spark-based pipeline for larger datasets enabling faster model training and data analysis. [cite: 15]"
+        "Implemented a deep learning algorithm, boosting sales forecasting accuracy by 20%.",
+        "Reduced computing costs by 94% and model runtime by 86% by optimizing the forecasting pipeline.",
+        "Built Spark-based pipeline for larger datasets enabling faster model training and data analysis."
       ]
     }
   ];
