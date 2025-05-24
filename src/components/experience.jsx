@@ -1,6 +1,6 @@
 // src/components/Experience.jsx
 import React from 'react';
-import './Experience.css'; // We'll create this CSS file next
+import './experience.css'; // We'll create this CSS file next
 
 function Experience() {
   const experiences = [

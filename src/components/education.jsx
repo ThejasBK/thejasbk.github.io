@@ -1,6 +1,6 @@
 // src/components/Education.jsx
 import React from 'react';
-import './Education.css'; // We'll create this CSS file next
+import './education.css'; // We'll create this CSS file next
 
 function Education() {
   const educationHistory = [

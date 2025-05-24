@@ -1,6 +1,6 @@
 // src/components/Projects.jsx
 import React from 'react';
-import './Projects.css'; // We'll create this CSS file next
+import './projects.css'; // We'll create this CSS file next
 
 function Projects() {
   const projectList = [

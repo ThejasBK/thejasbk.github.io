@@ -1,6 +1,6 @@
 // src/components/Skills.jsx
 import React from 'react';
-import './Skills.css'; // We'll create this CSS file next
+import './skills.css'; // We'll create this CSS file next
 
 function Skills() {
   const skillCategories = [
