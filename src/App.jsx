@@ -5,6 +5,7 @@ import Experience from './components/experience';
 import Education from './components/education';
 import Skills from './components/skills';
 import Projects from './components/projects';
+import Contact from './components/contact';
 
 function App() {
   return (
@@ -31,18 +32,8 @@ function App() {
         <Education /> {/* Use the Education component here */}
         <Skills /> {/* Use the Skills component here */}
         <Projects /> {/* Use the Projects component here */}
-        
-        <section id="publications">
-          <h2>Publications</h2>
-          {/* Publications content will go here */}
-        </section>
+        <Contact /> {/* Use the Contact component here */}
 
-        <section id="contact">
-          <h2>Contact</h2>
-          <p>Email: <a href="mailto:thejaskiran99@gmail.com">thejaskiran99@gmail.com</a></p>
-          <p>LinkedIn: <a href="https://linkedin.com/in/thejasbk" target="_blank" rel="noopener noreferrer">linkedin.com/in/thejasbk</a> </p>
-          <p>Location: Bentonville, AR </p>
-        </section>
       </div>
 
       <footer>
